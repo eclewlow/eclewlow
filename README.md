@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eclewlow
 - 👀 I'm a full stack Engineer. My recent projects include music applications, including DSP, synthesizers, Eurorack modules and STM32.
-- I enjoy studying Japanese.
+- I enjoy studying Japanese. I'm currenly studying for the N1 level proficiency test.
 - 🌱 I have a masters degree in software engineering from San Jose State University.
 - 📫 How to reach me https://www.eugene-clewlow.com.
 
